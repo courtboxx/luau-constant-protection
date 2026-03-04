@@ -109,6 +109,19 @@ If a client receives the data, it can eventually be extracted.
 
 ---
 
+## Need Help?
+
+If you do not understand part of this process or do not know how to convert or rebuild strings manually, you can use AI tools to generate the encoded tables and reconstruction functions for you.
+
+Provide the string you want encoded and request:
+- Conversion to byte values
+- A runtime rebuild function
+- Optional offset or encoding layer
+
+Always review the output before using it.
+
+---
+
 ## Final Rule
 
 If something must remain private:
