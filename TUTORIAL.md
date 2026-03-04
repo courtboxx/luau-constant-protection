@@ -120,10 +120,3 @@ Provide the string you want encoded and request:
 
 Always review the output before using it.
 
----
-
-## Final Rule
-
-If something must remain private:
-Keep it server-side.
-Never give it to the client.
