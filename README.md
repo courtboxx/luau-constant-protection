@@ -4,6 +4,9 @@
 
 In Lua and LuaU, every compiled function contains a **constant table**.
 
+See [TUTORIAL.md](TUTORIAL.md) for a complete step-by-step guide.
+
+
 Constants include:
 - Strings
 - Numbers
